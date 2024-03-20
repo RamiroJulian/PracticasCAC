@@ -1,0 +1,13 @@
+table, td{
+
+   border:1px solid rgb(1, 66, 9);
+}
+td{
+    background-color: green;
+}
+input{
+    background-color: rgba(2, 173, 2, 0.837);
+}
+input,textarea{
+    background-color: rgb(181, 181, 181);
+}
